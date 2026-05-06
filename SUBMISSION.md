@@ -273,7 +273,7 @@ The Environment Variables blade of `pa4-26100365` shows App Service settings inc
 
 ### Evidence 8.1: Architecture Diagram
 
-> **To be added** — Architecture diagram will be committed to `docs/` separately.
+![Architecture Diagram](architecture_26100365.svg)
 
 ---
 
