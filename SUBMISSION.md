@@ -273,7 +273,7 @@ The Environment Variables blade of `pa4-26100365` shows App Service settings inc
 
 ### Evidence 8.1: Architecture Diagram
 
-![Architecture Diagram](docs\pa4_taskflow_26100365.jpg)
+![Architecture Diagram](docs/pa4_taskflow_26100365.jpg)
 
 ---
 
