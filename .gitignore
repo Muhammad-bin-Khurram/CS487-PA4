@@ -6,4 +6,10 @@ __pycache__/
 venv/
 .env
 local.settings.generated.json
+local.settings.json
 npm-debug.log*
+
+# Azurite local emulator data
+__blobstorage__/
+__queuestorage__/
+__azurite_db_*.json

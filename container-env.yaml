@@ -1,0 +1,8 @@
+- name: ORDER_ID
+  value: TEST-001
+- name: ORDER_JSON
+  value: '{"order_id":"TEST-001","items":[{"sku":"ABC","qty":2}]}'
+- name: STORAGE_ACCOUNT_URL
+  value: https://pa426100365.blob.core.windows.net
+- name: AZURE_CLIENT_ID
+  value: 49a00281-8c22-4ae3-80be-cb0b3c2cd39c
